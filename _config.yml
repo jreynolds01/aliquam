@@ -16,15 +16,15 @@ quote:
 # Set this to your main site title
 # In the head - ff page doesnt have its own title,
 # Site title will be used instead
-title: Academic Roots
+title: Better Living through Data
 
 # Description and title below nav in the header
 punch-line: true
 
 # Your logo for the header
 logo:
-  title: Academic Roots
-  subtitle: Posts from an Academic working as a Data Scientist
+  title: Better Living through Data
+  subtitle: 
 
 include:
   - pages
