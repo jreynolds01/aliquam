@@ -4,7 +4,7 @@
 ##########################################
 
 # Set this for Copyright in the footer
-owner: Name Surname
+owner: Jeremy Reynolds
 
 # Optional quote in the footer
 # To disable set enable to false
@@ -16,29 +16,29 @@ quote:
 # Set this to your main site title
 # In the head - ff page doesnt have its own title,
 # Site title will be used instead
-title: Aliquam Theme - Author Dennis Grinch
+title: Academic Roots
 
 # Description and title below nav in the header
 punch-line: true
 
 # Your logo for the header
 logo:
-  title: John Doe
-  subtitle: Designer & Developer
+  title: Academic Roots
+  subtitle: Posts from an Academic working as a Data Scientist
 
 include:
   - pages
 
 # Following needed for disqus integration
 # Set your 'disqus' account name
-disqus:
+disqus: jeremy_reynolds
 
 # Uncomment if deployed locally
- url: https://localhost:4000
+# url: https://localhost:4000
 
 # Set your host if deployed not locally
 # For example "https://yourGitHub.github.io"
-url:
+url: https://jreynolds01.github.io
 
 # Change this to your base URL starting with forward slash if site is in gh-pages branch
 # For example /branchName
