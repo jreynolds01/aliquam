@@ -23,7 +23,7 @@ You can read more about at [LinkedIn](https://www.linkedin.com/in/jeremy-reynold
 </div>
 <div>
 <p><span>python</span><span>75%</span></p>
-<progress value="95" max="100"></progress>
+<progress value="75" max="100"></progress>
 </div>
 <div>
 <p><span>SQL Server</span><span>50%</span></p>
