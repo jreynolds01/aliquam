@@ -12,6 +12,8 @@ to joining Microsoft, I worked for Revolution Analytics, where I helped our cust
 Prior to joining industry, I was an NIMH-funded, tenure-track professor at the University of Denver, and I studied the 
 computational and neural mechanisms of controlled behavior. 
 
+You can read more about at [LinkedIn](https://www.linkedin.com/in/jeremy-reynolds-995b352).
+
 ## My skills
 
 <div id="skills">
