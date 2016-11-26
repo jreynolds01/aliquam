@@ -31,7 +31,7 @@ include:
 
 # Following needed for disqus integration
 # Set your 'disqus' account name
-disqus: jeremy_reynolds
+disqus: academicroots
 
 # Uncomment if deployed locally
 # url: https://localhost:4000
