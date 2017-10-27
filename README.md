@@ -1,7 +1,7 @@
 
 ![aliquam rwd](/demo.jpg)
 
-# aliquam
+# Test
 
 Want example? [check this out](http://grrinchas.github.io/aliquam/)
 
